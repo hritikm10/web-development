@@ -1,8 +1,8 @@
-/* Extra small devices (phones, 600px and less) */
-@media only screen and (max-width: 600px) {}
+/* Extra small devices (phones, 400px and less) */
+@media only screen and (max-width: 400px) {}
 
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {}
+/* Small devices (portrait tablets and large phones, 400px and up) */
+@media only screen and (min-width: 400px) {}
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {}
